@@ -1,0 +1,8 @@
+.menuWrapper {
+    list-style-type: none;
+    display: flex;
+}
+
+.menuWrapper li {
+    margin-right: 5px;
+}
