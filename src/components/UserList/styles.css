@@ -1,0 +1,13 @@
+.wrapper {
+    border: 1px solid white;
+}
+
+.entry {
+    margin-bottom: 10px;
+    border-bottom: 1px solid white;
+}
+
+.entry span {
+    display: inline-block;
+    margin-right: 15px;
+}
