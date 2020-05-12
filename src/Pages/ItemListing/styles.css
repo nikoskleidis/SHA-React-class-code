@@ -1,0 +1,14 @@
+.ItemListing_itemTable {
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+}
+
+.ItemListing_item {
+    display: flex;
+    border-bottom: 1px solid black;
+}
+
+.ItemListing_item > div {
+    flex: 1;
+}
